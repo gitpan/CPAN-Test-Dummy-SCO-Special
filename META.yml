@@ -23,4 +23,4 @@ requires:
 resources:
   homepage: http://perlmaven.com/
   repository: http://github.com/szabgab/CPAN-Test-Dummy-SCO.git
-version: '0.02'
+version: '0.03'
