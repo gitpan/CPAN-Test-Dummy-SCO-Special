@@ -6,7 +6,7 @@
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060",
    "license" : [
-      "perl_5"
+      "lgpl_2_1"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -50,5 +50,5 @@
          "x_license" : "http://dev.perl.org/licenses/"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }

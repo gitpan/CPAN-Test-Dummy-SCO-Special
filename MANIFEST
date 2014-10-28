@@ -3,8 +3,12 @@ Build.PL
 Changelog
 Changes
 COPYING
+cpan-test-dummy-sco-special
 INSTALL
 lib/CPAN/Test/Dummy/SCO/Nodoc.pm
+lib/CPAN/Test/Dummy/SCO/Onlydoc.pod
+lib/CPAN/Test/Dummy/SCO/Separate.pm
+lib/CPAN/Test/Dummy/SCO/Separate.pod
 lib/CPAN/Test/Dummy/SCO/Special.pm
 LICENSE
 Makefile.PL
@@ -12,6 +16,8 @@ MANIFEST			This list of files
 README
 README.md
 sample/index.html
+sample/ps.conf
+sample/ps.map
 sample/README
 SIGNATURE
 SomeOther.txt
